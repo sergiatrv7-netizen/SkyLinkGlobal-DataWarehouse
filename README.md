@@ -55,7 +55,7 @@ The architecture is divided into three logical layers:
 This architecture provides scalability, data traceability, improved data quality, and a clear separation between raw, refined, and analytical datasets.
 
 <p align="center">
-  <img src="01_Diagramas/arquitectura_solucion.png" alt="Solution Architecture" width="900">
+    <img src="docs/diagrams/arquitectura_solucion.png" alt="Solution Architecture" width="900">
 </p>
 
 # 📂 Data Sources
@@ -110,7 +110,7 @@ The datasets stored in this layer represent different areas of airline operation
 According to the project implementation, the Bronze layer contains **10 operational tables**, all populated with synthetic data generated to simulate realistic airline activity.
 
 <p align="center">
-    <img src="01_Diagramas/erd_bronze.png" alt="Bronze ER Diagram" width="900">
+    <img src="docs/diagrams/erd_bronze.png" alt="Bronze ER Diagram" width="900">
 </p>
 
 ---
