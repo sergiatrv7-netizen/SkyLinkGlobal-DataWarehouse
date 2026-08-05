@@ -270,3 +270,121 @@ This project was designed as a complete Data Engineering solution for an airline
 -  Security Roles for database access control.
 -  Geospatial functions for location-based data.
 -  Audit mechanisms for data traceability.
+
+---
+
+# 🔍 Audit & Data History
+
+To improve traceability and data governance, the project includes dedicated database structures for auditing and historical data management. These mechanisms allow tracking of relevant database operations and preserve historical information for analytical and administrative purposes.
+
+### Audit Model
+
+<p align="center">
+    <img src="docs/diagrams/erd_audit.png" alt="Audit Model" width="900">
+</p>
+
+### History Model
+
+<p align="center">
+    <img src="docs/diagrams/erd_history.png" alt="History Model" width="900">
+</p>
+
+
+---
+
+# 📁 Repository Structure
+
+```text
+SkyLinkGlobal-DataWarehouse
+│
+├── docs
+│   ├── diagrams
+│   │   ├── arquitectura_solucion.png
+│   │   ├── erd_bronze.png
+│   │   ├── erd_silver.png
+│   │   ├── erd_gold.png
+│   │   ├── erd_audit.png
+│   │   └── erd_history.png
+│   │
+│   ├── presentation
+│   └── justification
+│
+├── sql
+│   ├── bronze
+│   ├── silver
+│   ├── gold
+│   ├── functions
+│   ├── triggers
+│   ├── views
+│   ├── roles
+│   └── synthetic_data
+│
+├── README.md
+├── LICENSE
+└── .gitignore
+```
+
+---
+
+# 🚀 Getting Started
+
+To explore this project locally:
+
+## 1. Clone the repository
+
+```bash
+git clone https://github.com/YOUR_USERNAME/SkyLinkGlobal-DataWarehouse.git
+```
+
+## 2. Open the project
+
+Use PostgreSQL together with your preferred SQL client (such as pgAdmin, DBeaver, or Azure Data Studio).
+
+## 3. Execute the SQL scripts
+
+Run the scripts following the Medallion Architecture order:
+
+1. Bronze Layer
+2. Silver Layer
+3. Gold Layer
+4. Functions
+5. Views
+6. Triggers
+7. Roles
+
+## 4. Explore the documentation
+
+The repository includes architecture diagrams, ER diagrams, project documentation, and presentation materials to better understand the implemented solution.
+
+---
+
+# 🚀 Future Improvements
+
+Possible future enhancements include:
+
+- Integration with real-time streaming data.
+- Power BI dashboards for business visualization.
+- Automated ETL orchestration.
+- Data quality monitoring.
+- Cloud deployment automation.
+- Additional analytical KPIs.
+
+- ---
+
+# 👥 Authors
+
+This project was developed as a collaborative academic project as part of the **Data Analysis** program at **Universidad Hispanoamericana**.
+
+**Repository maintained by Sergio Rodrigues as part of his professional portfolio.**
+
+---
+
+# 📄 License
+
+This project is distributed under the MIT License. See the LICENSE file for more information.
+
+---
+
+# 🙏 Acknowledgements
+
+Special thanks to the professors, teammates, and Universidad Hispanoamericana for providing the opportunity to develop this end-to-end Data Warehouse project and apply modern Data Engineering concepts in a real-world academic scenario.
