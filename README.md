@@ -142,7 +142,7 @@ In addition to the transformed operational data, the Silver layer incorporates c
 The Silver layer contains **22 tables**, combining transformed operational information with standardized reference data to create a trusted data foundation for analytical workloads.
 
 <p align="center">
-    <img src="01_Diagramas/erd_silver.png" alt="Silver ER Diagram" width="950">
+    <img src="docs/diagrams/erd_silver.png" alt="Silver ER Diagram" width="950">
 </p>
 
 > 💡 **Why is the Silver Layer important?**
@@ -192,7 +192,7 @@ The Gold layer serves as the trusted source for business analysis by consolidati
 The Gold layer contains **12 analytical tables**, including **6 Dimension Tables** and **6 Fact Tables**, providing a robust foundation for business intelligence and advanced analytics.
 
 <p align="center">
-    <img src="01_Diagramas/erd_gold.png" alt="Gold ER Diagram" width="950">
+    <img src="docs/diagrams/erd_gold.png" alt="Gold ER Diagram" width="950">
 </p>
 
 > 💡 **Why is the Gold Layer important?**
