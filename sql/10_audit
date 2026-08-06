@@ -1,0 +1,5 @@
+# Audit and History
+
+This folder contains the SQL scripts related to auditing and historical data management.
+
+These components provide traceability, preserve historical records, and support data governance throughout the Data Warehouse.
