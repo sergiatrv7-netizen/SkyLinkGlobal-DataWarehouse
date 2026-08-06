@@ -1,0 +1,5 @@
+# Synthetic Data
+
+This folder contains the SQL scripts used to generate synthetic data.
+
+Synthetic data was created to enrich incomplete datasets, simulate operational scenarios, and support testing and development.
