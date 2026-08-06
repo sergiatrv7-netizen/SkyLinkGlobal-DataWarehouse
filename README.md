@@ -1,5 +1,14 @@
 # ✈️ SkyLink Global Airline Data Warehouse
 
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791?logo=postgresql&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-Cloud-0078D4?logo=microsoftazure&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Data-blue)
+![ETL](https://img.shields.io/badge/ETL-Pipeline-success)
+![Medallion](https://img.shields.io/badge/Architecture-Medallion-orange)
+![Data Warehouse](https://img.shields.io/badge/Data-Warehouse-purple)
+
+
 > **End-to-end Data Warehouse solution for airline operations built with Azure and PostgreSQL, implementing ETL pipelines and a Medallion Architecture (Bronze, Silver, Gold) to support scalable data integration and business analytics.**
 
 ---
