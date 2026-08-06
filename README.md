@@ -9,6 +9,27 @@
 ![Data Warehouse](https://img.shields.io/badge/Data-Warehouse-purple)
 
 
+## 📑 Table of Contents
+
+- Project Overview
+- Objectives
+- Technology Stack
+- Solution Architecture
+- Data Sources
+- Bronze Layer
+- Silver Layer
+- Gold Layer
+- ETL Pipeline
+- Project Highlights
+- Database Features
+- Audit & Data History
+- Repository Structure
+- Getting Started
+- Future Improvements
+- Authors
+- License
+
+
 > **End-to-end Data Warehouse solution for airline operations built with Azure and PostgreSQL, implementing ETL pipelines and a Medallion Architecture (Bronze, Silver, Gold) to support scalable data integration and business analytics.**
 
 ---
