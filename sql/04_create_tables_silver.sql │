@@ -1,0 +1,5 @@
+# Silver Layer
+
+This folder contains the SQL scripts used to create the Silver layer.
+
+The Silver layer performs data cleansing, standardization, enrichment, and integrates catalog tables to prepare data for analytical processing.
