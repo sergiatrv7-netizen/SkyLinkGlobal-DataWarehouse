@@ -2,12 +2,11 @@
 
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791?logo=postgresql&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-Cloud-0078D4?logo=microsoftazure&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Data-blue)
-![ETL](https://img.shields.io/badge/ETL-Pipeline-success)
-![Medallion](https://img.shields.io/badge/Architecture-Medallion-orange)
-![Data Warehouse](https://img.shields.io/badge/Data-Warehouse-purple)
-
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-Cloud-0078D4?logo=microsoftazure&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Data%20Engineering-4479A1?logo=postgresql&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-Data%20Pipeline-orange)
+![Medallion Architecture](https://img.shields.io/badge/Architecture-Medallion-blueviolet)
+![Data Warehouse](https://img.shields.io/badge/Data%20Warehouse-Analytics-success)
 
 ## 📑 Table of Contents
 
